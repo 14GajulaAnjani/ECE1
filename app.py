@@ -4,7 +4,6 @@ from groq import Groq
 from dotenv import load_dotenv
 
 
-# Initialize session sta
 # Load environment variables
 load_dotenv()
 
@@ -45,8 +44,7 @@ with st.sidebar:
 st.title("🤖 AI Chat Assistant")
 
 
-st.markdown("Ask anythi
-# Initialize session stang and get AI responses instantly.")
+st.markdown("Ask anything and get AI responses instantly.")
 
 
 # Initialize session state
